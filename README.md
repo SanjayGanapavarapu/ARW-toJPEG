@@ -100,3 +100,19 @@ This tool is designed for educational and non-commercial purposes. Please ensure
 ## Support
 If you encounter any issues or have questions, feel free to open an [issue](https://github.com/SanjayGanapavarapu/ARW-toJPEG/issues) in this repository.
 
+##TLDR;
+Lightweight code to convert Sony's `.ARW` to `.JPEG`
+
+follow above steps or manual below:
+
+* Ensrue python is installed and all other needed dependencies. (Version used 13.13.1)
+* check the "requirments.txt" for libraries needed and install using follwing code.
+```bash
+
+pip install rawpy pillow
+```
+* Download "ARW_toJPEG.py" .
+* Open CMD and cd to directory with `.py` file.
+* Follow  "Usage" commands to run. 
+
+
