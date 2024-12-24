@@ -25,7 +25,11 @@ cd ARW-toJPEG
 ```bash
 pip install -r requirements.txt
 ```
+or 
+```bash
 
+pip install rawpy pillow
+```
 ---
 
 ## Usage
