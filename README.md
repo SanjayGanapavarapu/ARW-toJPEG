@@ -100,7 +100,7 @@ This tool is designed for educational and non-commercial purposes. Please ensure
 ## Support
 If you encounter any issues or have questions, feel free to open an [issue](https://github.com/SanjayGanapavarapu/ARW-toJPEG/issues) in this repository.
 
-##TLDR;
+## TLDR;
 Lightweight code to convert Sony's `.ARW` to `.JPEG`
 
 follow above steps or manual below:
