@@ -46,6 +46,8 @@ python ARW_toJPEG.py
 ### Example
 ```bash
 python ARW_toJPEG.py
+```
+```
 --input C:\Users\"Name"\Pictures\RAW
 --output C:\Users\"Name"\Pictures\JPEG
 ```
