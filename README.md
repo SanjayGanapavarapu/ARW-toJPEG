@@ -39,6 +39,8 @@ Run the following command to convert `.ARW` files in a specified folder:
 
 ```bash
 python ARW_toJPEG.py
+```
+```
 --input <input_folder>
 --output <output_folder>
 ```
@@ -46,8 +48,7 @@ python ARW_toJPEG.py
 ### Example
 ```bash
 python ARW_toJPEG.py
-```
-```
+
 --input C:\Users\"Name"\Pictures\RAW
 --output C:\Users\"Name"\Pictures\JPEG
 ```
